@@ -14,7 +14,7 @@ import org.apache.commons.lang3.RandomUtils;
 public class Ejemplo002 {
     
     public static void main(String[] args) {
-        int v = RandomUtils.nextInt(20, 25);
+        int v = RandomUtils.nextInt(20,25);
         
         System.out.printf("%d\n", v);
     }
